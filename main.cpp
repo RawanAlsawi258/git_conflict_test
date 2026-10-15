@@ -4,12 +4,12 @@ using namespace std;
 
 int main(){
 
-string userName;
+string clientName;
 int age;
 cout<<"Please Enter name";
 
 cin >> userName;
 
-cout<< "Hi" << userName;
+cout<< "Hi" << clientName;
 
 
